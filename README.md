@@ -1,6 +1,6 @@
 # MIMIC-III SBD
 
-A simple sentence boundary detection (sentence breaking) for MIMIC-III data preparation. We test the program on MIMIC-III v1.3.
+A simple sentence boundary detection (sentence breaking) for MIMIC-III data preparation. The program supports data from MIMIC-III v1.3.
 
 ## Usage
 
