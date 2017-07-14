@@ -222,14 +222,14 @@ def main():
                 print "Done ( total document = " + str(crow) + " / no topic = " + str(cdel) + " / contains topic = " + str(cexst) + " / file error = " + str(cerr) +" )"
             
         fr_tp.close()
+    print "\nCompleted.......100%"
+    print "Have a nice day!"
 
 if __name__ == "__main__":
     start_time = datetime.now()
     
     try:
         main()
-        print "\nCompleted.......100%"
-        print "Have a nice day!"
     except Exception as e:
         print "\nError: ", str(e)
         
