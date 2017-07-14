@@ -1,0 +1,809 @@
+rowid|12263|25953|
+ 
+ 
+ 
+Allergies: 
+Codeine
+ 
+Attending:[**First Name3 (LF) 7005**] 
+Chief Complaint:
+mental status change 
+ 
+Major Surgical or Invasive Procedure:
+central venous catheter placement
+ 
+History of Present Illness:
+This is a [**Age over 90 **] year-old man with coronary artery disease, diabetes 
+mellitus, chronic renal insufficiency and dementia presenting 
+from [**First Name4 (NamePattern1) 7006**] [**Last Name (NamePattern1) **] rehab with altered mental status. As per 
+report there, patient noted to be shivering and moaning earlier 
+tonight. (Baseline as per report is alert, verbal but confused 
+and completely dependent for ADL's.) Vital signs largely 
+unremarkable at that time. CBC/chem-10 sent and patient noted to 
+be hyperglycemic to 800's, hypernatremic to 149, potassium of 7. 
+2, creatinine 3.6 and crit of 30 (unknown baselines). He was 
+given levoquin and transferred to [**Hospital1 19**] for further management.  
+
+.  
+In the ER, patient afebrile, tachycardic to 102, tachypneic to 
+20's, bp's 130's to 140's, patient moaning, responsive to pain, 
+moving all four extremities. Above lab abnormalities confirmed, 
+lactate of 3.3, cxr revealed RML pneumonia, dirty U/A with 
+apparent UTI, treated with 10 units insulin followed by drip, 
+bicarbonate, calcium gluconate, 2 liters NS, vancomycin, 
+levoquin and flagyl. Urine output not recorded but by report, 
+good.  
+
+ 
+Past Medical History:
+1. Coronary Artery Disease  
+2. Diabetes Mellitus  
+3. Chronic Renal insufficiency  
+4. Dementia  
+5. UTI's  
+6. Suprapubic prostatectomy/catheter  
+7. S/p right nephrectomy?  
+8. hypertension  
+
+ 
+Social History:
+lives at [**Hospital3 **]. former cook at [**Last Name (un) 7007**] [**Location (un) 7008**] in NYC, 
+travelled extensively with the merchant marines, ? tobacco 
+history. 
+ 
+Family History:
+unavailable
+ 
+Physical Exam:
+On Admission-
+VS: Temp: 98.4/98.2 BP:122/58 HR:105 RR:24 95%rm airO2sat  
+.  
+general: responds to pain, moves all four extremities, 
+intermittenly responds to name, cachectic  
+HEENT: EOMI, anicteric, no sinus tenderness, MMdry, op without 
+lesions, no jvd  
+lungs: crackles at right base, left lung field clear  
+heart: RR, S1 and S2 wnl, no murmurs, rubs or gallops 
+appreciated  
+abdomen: nd, +b/s, multiple scars, suprapubic catheter in place 
+without surrounding erythema, soft, nt  
+extremities: no edema  
+skin/nails: no rashes/no jaundice/  
+neuro: unable to follow commands, intermittently responds to 
+voice, moves all four extremities  
+.
+
+ 
+Pertinent Results:
+[**2575-4-24**] 01:05AM BLOOD WBC-20.6*# RBC-3.26* Hgb-10.3* Hct-31.5* 
+MCV-97# MCH-31.6 MCHC-32.7 RDW-15.4 Plt Ct-473*
+[**2575-4-30**] 07:05AM BLOOD WBC-15.3* RBC-3.69* Hgb-11.2* Hct-34.4* 
+MCV-93 MCH-30.3 MCHC-32.5 RDW-15.3 Plt Ct-510*
+[**2575-4-30**] 07:05AM BLOOD Glucose-32* UreaN-41* Creat-2.5* Na-144 
+K-4.7 Cl-113* HCO3-17* AnGap-19
+[**2575-4-25**] 03:52AM BLOOD ALT-19 AST-25 AlkPhos-93 Amylase-296* 
+TotBili-0.4
+[**2575-4-26**] 06:50AM BLOOD Lipase-57
+[**2575-4-30**] 07:05AM BLOOD Calcium-9.7 Phos-3.6 Mg-2.3
+[**2575-4-26**] 06:50AM BLOOD calTIBC-183* Ferritn-421* TRF-141*
+[**2575-4-25**] 03:52AM BLOOD %HbA1c-7.5*
+.
+RENAL U.S.  [**2575-4-27**] 4:08 PM
+RENAL ULTRASOUND: Study is limited due to patient cooperativity. 
+No gross abnormality seen in the right renal bed. The left 
+kidney measures 9.7 cm. There is no hydronephrosis. There is a 
+small cyst in the mid-to-lower pole measuring up to 14 mm. There 
+is no overt solid mass. Probable extrarenal pelvis. No 
+hydronephrosis.
+.
+CHEST PORTABLE [**2575-4-24**] 2:02 AM
+FINDINGS: Placement of right internal jugular venous catheter is 
+identified in the expected region of the mid SVC. No pleural 
+effusion or pneumothorax identified. Again noted is airspace 
+opacity within the right lower lobe.
+
+IMPRESSION:
+1. Normal placement of right internal jugular venous catheter 
+without pneumothorax identified.
+2. Right lower lobe pneumonia as described previously. 
+.
+
+ 
+Brief Hospital Course:
+This is a [**Age over 90 **] year-old man with history of dementia, cad, 
+diabetes mellitus, chronic renal insufficiency who presented 
+with mental status change, work up remarkable for HONK, 
+hypernatremia, pneumonia, UTI.  
+
+1)Mental Status change:
+Multifactorial in secondary to hyperglycemia, hypernatremia, 
+pneumonia, metabolic derangements. The patient's mental status 
+returned to baseline once metabolic derangements and infections 
+were treated.
+
+2)Endocrine: 
+The patient has an unclear history of DM, but not presently on 
+medications. Hyperosmolar state (HONK) likely precipitated by 
+pneumonia/UTI. He was given aggressive fluids with NS initially, 
+then changed to D5W since hypernatremia was not improving. 
+Briefly required an Insulin drip, added D5 when sugar <200, 
+converted to long-acting insulin on [**4-24**]. He was tapered to 
+standing NPH insulin, then later became hypoglycemic with 
+treatment of his infection. He was discharged on Humalog sliding 
+scale. Treatment with an oral antidiabetic [**Doctor Last Name 11**] should be 
+considered as an outpatient as Pt's Hgb A1C was 7.5 on 
+admission.
+  
+4)Acute on Chronic Renal Failure: 
+Pt is s/p L nephrectomy. Likely secondary to ATN in setting of 
+hypotension, hypovolemia. Pt's baseline Creatinine is 1.9 
+according to PCP. [**Name10 (NameIs) 7009**] improved from 3.8 to 3.0 with IV 
+fluids, but was in plateau phase for several days. Renal service 
+was consulted, renal ultrasound did not reveal hydroureter. 
+Gentle intravenous fluids continued to improved pt's Cr 
+clearance leading up until discharge. His medications were 
+renally dosed. 
+  
+5) Heme: 
+Anemia consistent with AKD in combination with chronic kidney 
+disease. Guaiac negative. Renal recommended starting EPO q 
+M,W,F. Hematocrit was stable on serial checks.
+
+6) Infectious Disease: 
+a) Pneumonia: required ICU admission  
+--vancomycin, ceftriaxone, levoquin initially - was changed to 
+vanc/zosyn on [**4-24**] for a health care associated pneumonia. He 
+should complete a full 14 day course of Vancomycin as his sputum 
+grew MRSA.
+b) UTI--grew cipro and bactrim resistant E. Coli- 14 day course 
+of ceftriaxone for complicated UTI
+c) Diarrhea- Pt developed copius diarrhea on HD #4, was started 
+on empiric Flagyl PO, C. diff x 2 negative. His stools 
+normalized following initiation of treatment. He should complete 
+a 14 day course following the last day of Vancomycin and 
+Ceftriaxone.
+  
+7) Suprapubic Catheter:
+Pt was noted to have copious urine drainage from around his 
+suprapubic catheter, without evidence for skin infection. 
+Urology was consulted and recommended Tolteridine 1mg BID for 
+potential bladder spasm. He has a 24 Fr foley. There is no 
+further role for intervention except for continued monitoring to 
+assure his catheter flushed, dressed properly for good position 
+within the bladder.
+
+8) Speech and Swallowing evaluation:
+Recommended PO diet of soft solids with thin liquids, pills 
+crushed as allowable. 
+Aspiration precautions with 1:1 assist at meals.
+
+Code Status: DNR/DNI per discussion with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 415**] 
+[**Telephone/Fax (1) 7010**] or [**Telephone/Fax (1) 7011**](lives in [**State 6085**]) and [**First Name4 (NamePattern1) **] 
+[**Last Name (NamePattern1) 415**] [**Telephone/Fax (1) 7012**](lives in [**Location **]) Pt's grandchildren and 
+HCP. At this time, Ms. [**Name13 (STitle) 415**] expressed that they would not 
+be opposed to dialysis should Mr. [**Known patient lastname 7013**] eventually require it.
+ 
+Medications on Admission:
+(As [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 7006**] [**Last Name (NamePattern1) **] notes):  
+1. omeprazole 20mg daily  
+2. felodipine 10mg daily  
+3. MVI  
+4. MOM  
+5. bisacodyl  
+6. tylenol prn  
+7. levoquin started [**4-23**]  
+
+ 
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: [**11-22**]  PO BID (2 times a 
+day).  
+2. Senna 8.6 mg Capsule Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. Heparin Flush CVL  (100 units/ml) 1 ml IV DAILY:PRN 
+10ml NS followed by 1ml of 100 units/ml heparin (100 units 
+heparin) each lumen QD and PRN.  Inspect site every shift 
+5. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN 
+Peripheral IV - Inspect site every shift 
+6. Epoetin Alfa 3,000 unit/mL Solution Sig: One (1)  Injection 
+QMOWEFR (Monday -Wednesday-Friday).  
+7. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day): Day 1 is [**4-26**]. continue for two weeks once 
+vancomycin and ceftriaxone is given.  
+8. Acetaminophen 650 mg Suppository Sig: [**11-22**] Suppositorys Rectal 
+Q6H (every 6 hours) as needed.  
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+10. Humalog 100 unit/mL Solution Sig: per sliding scale protocol 
+ Subcutaneous four times a day.  
+11. Ceftriaxone-Dextrose (Iso-osm) 1 g/50 mL Piggyback Sig: One 
+(1) gram Intravenous Q24H (every 24 hours) for 4 days.  
+12. Tolterodine 2 mg Tablet Sig: 0.5 Tablet PO BID (2 times a 
+day).  
+13. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)  
+Intravenous Q48H (every 48 hours) for 4 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 6518**] - [**Location (un) 1194**]
+ 
+Discharge Diagnosis:
+hyperosmolar nonketotic hyperglycemia 
+delirium 
+hospital acquired pneumonia 
+urinary tract infection 
+clostridium dificile colitis 
+hyponatremia 
+anemia 
+acute renal failure 
+ 
+Secondary 
+1. Coronary Artery Disease  
+2. Diabetes Mellitus  
+3. Chronic Renal insufficiency  
+4. Dementia  
+5. chronic UTI's  
+6. Suprapubic prostatectomy/catheter  
+7. S/p right nephrectomy?  
+8. hypertension  
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Take all medications as prescribed.  Do not stop or change any 
+medications without first speaking to your physician.
+
+Follow up as outlined below.
+
+Please contact your primary care physician if [**Doctor First Name **] experience any 
+pain, shortness of breath, fever, chills, or any other 
+concerning symptoms.
+ 
+Followup Instructions:
+[**Doctor First Name 54**] have an appointment with [**Doctor First Name 7014**] Sedo, the Nurse 
+Practitioner who works with your primary care doctor Dr. [**Last Name (STitle) **] at 
+1:30 PM on [**5-8**].  Call [**Telephone/Fax (1) 1917**] if [**Doctor First Name **] have any 
+questions about thsi appointment.
+
+ 
+                             [**Name6 (MD) 1368**] [**Name8 (MD) **] MD [**MD Number 7015**]
+ 
+Completed by: [**First Name4 (NamePattern1) 654**] [**Last Name (NamePattern1) 4352**] MD [**MD Number 4353**] [**2575-5-1**] @ 1147
+Signed electronically by: DR. [**First Name (STitle) 1368**] [**Doctor Last Name **]
+ on: SUN [**2575-5-21**] 4:14 PM
+(End of Report)
+
+
+|DISCHARGE_SUMMARY
+rowid|26556|22653|
+ 
+ 
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 556**] 
+Chief Complaint:
+Shaking.
+ 
+Major Surgical or Invasive Procedure:
+Central line placement
+Intubation
+Foley
+ 
+History of Present Illness:
+86 year old male with history of alcohol abuse, colon cancer 
+status post resection, and recent MI just discharged from 
+[**Hospital 770**] Hospital on [**11-14**], who presented to [**Hospital 770**] Hospital 
+early this morning with shaking and confusion.  History is 
+mostly from the record as the patient is intubated and the wife 
+is a poor historian.  Per the wife, she says he was doing well 
+just after discharge, and was walking around as much as he 
+could.  She says he has not drank alcohol since he got home.  
+His only complaint has been profuse watery diarrhea, numerous 
+times a day, both in the hospital, and since discharge.  
+Otherwise he did not complain of chest pain, shortness of 
+breath, abdominal pain, fevers, or chills, prior to the day of 
+admission.
+
+As mentioned above, he was recently admitted to [**Hospital 770**] 
+Hospital from [**11-8**] to [**11-14**] after presenting with shaking.  He 
+was found to have a cardiac enzymes leak, and underwent p-MIBI 
+on [**11-13**] that demonstrated transient ischemic dilatation of the 
+LV with a small to moderate sized region of ischemia involving 
+the lateral wall, as well as a small to moderate fixed inferior 
+defect with hypokinesis suggestive prior infarction.  EF 50%.  
+No intervention was performed since he was in alcohol 
+withdrawal, and asymptomatic from a cardiac standpoint, however 
+plans were made for catheterization at [**Hospital1 25**] in the future.  He 
+was discharged home on a prednisone taper for unclear reasons.
+
+On arrival at [**Hospital 770**] Hospital on the morning of admission, 
+vitals were T 104.3, HR 109, BP 116/59, 89% on 3L NC. His 
+hypoxia progressed and he was intubated.  His blood pressure 
+declined to the 70s systolic and he was started on 
+norepinephrine via a left femoral line placed in their ED.  
+Given concern for meningitis an LP was performed, demonstrating 
+140 rbcs that cleared by tube 4, 2 WBC in tube 1, and 1 in tube 
+4, total protein of 80, glucose of 100 (interpreted as 
+negative).  Gram stain was without bacteria or WBCs.  Labs were 
+notable for a leukopenia of 2.5, with 12% bands.  A UA had large 
+leukocyte esterase, positive nitrite, [**5-14**] WBC, and moderate 
+bacteria.  He received a dose of ceftriaxone 2 grams (prior to 
+negative LP), vancomycin 1 gram, and flagyl 500 mg IV x 1 given 
+concern for clostridium difficile (bandemia).  EKG demonstrated 
+ST depressions in V4-V6. BNP 53, troponin I < 0.1 and CK 35.  He 
+was transferred to the [**Hospital1 25**] ER because of lack of beds in the 
+ICU at [**Hospital1 770**].  
+
+Vitals in our ED were T 104.8, HR 101, BP 75/47, RR 32, 99% on 
+ventilator (AC 550 x 20, 60%, PEEP 5).  He was continued on 
+norepinephrine, given 2.5 L IVF, and sent to the MICU.
+ 
+Past Medical History:
+1) CAD; ?MI, ?3VD:  Patient presented to [**Hospital 770**] Hospital in 
+early [**11-10**] with shaking and was noted to have a cardiac enzyme 
+leak.  A p-MIBI revealed transient ischemic dilatation.  He was 
+in alcohol withdrawal at the time, therefore he was started on 
+ASA, Plavix, Statin, and sent home with plans for 
+catheterization at [**Hospital1 25**] when able.  
+2) Type 2 diabetes
+3) BPH
+4) Alcohol abuse:  Drinks [**1-6**] gallon of Whiskey a week, per 
+wife.
+5) Colon cancer status post resection, details unclear.
+
+ 
+Social History:
+Quit smoking 10 years ago, smoked heavily previously - wife says 
+he does have 1 cigarette a week.  Drinks [**1-6**] gallon of whiskey 
+per week.  Lives with his wife of 59 years.  
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+99.5, 108/76, 96, 20, 99% on AC 550 x 20, 60%, PEEP 5.  Pip 19, 
+Pplat 15.
+GENERAL:  Elderly male, intubated, not sedated and writhing 
+around in bed.  Withdraws to painful stimuli, purposeful 
+movements.
+HEENT:  Dry mucous membranes.
+NECK:  JVP 8-10 cm H20.
+COR:  RR, normal rate, no murmurs.
+LUNGS:  Difficult to auscultate over ventilator sounds.
+ABDOMEN:  Normoactive bowel sounds, soft, non-tender, 
+non-distended.
+EXTR:  Left groin with femoral line in place, adequate 
+hemostasis.  Noon-edematous, warm.
+
+ 
+Pertinent Results:
+[**3377-11-16**] 09:34PM   CK(CPK)-425*
+[**3377-11-16**] 09:34PM   CK-MB-4 cTropnT-0.18*
+[**3377-11-16**] 03:49PM   TYPE-ART PO2-160* PCO2-34* PH-7.34* TOTAL 
+CO2-19* BASE XS--6
+[**3377-11-16**] 03:49PM   GLUCOSE-178* LACTATE-1.6 K+-4.1
+[**3377-11-16**] 03:49PM   freeCa-1.12
+[**3377-11-16**] 10:56AM   TYPE-ART PO2-155* PCO2-35 PH-7.27* TOTAL 
+CO2-17* BASE XS--9
+[**3377-11-16**] 10:56AM   LACTATE-1.6
+[**3377-11-16**] 08:54AM   TYPE-ART PO2-267* PCO2-37 PH-7.27* TOTAL 
+CO2-18* BASE XS--8
+[**3377-11-16**] 08:54AM   LACTATE-1.5 K+-4.1
+[**3377-11-16**] 08:54AM   freeCa-1.09*
+[**3377-11-16**] 08:47AM   CK(CPK)-404*
+[**3377-11-16**] 08:47AM   CK-MB-3 cTropnT-0.40*
+[**3377-11-16**] 08:47AM   CORTISOL-9.9
+[**3377-11-16**] 04:12AM   LACTATE-2.6*
+[**3377-11-16**] 04:05AM   GLUCOSE-108* UREA N-49* CREAT-2.2* SODIUM-139 
+POTASSIUM-3.9 CHLORIDE-109* TOTAL CO2-19* ANION GAP-15
+[**3377-11-16**] 04:05AM   CK(CPK)-398*
+[**3377-11-16**] 04:05AM   CK-MB-2 cTropnT-0.69*
+[**3377-11-16**] 04:05AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**3377-11-16**] 04:05AM URINE  HOURS-RANDOM
+[**3377-11-16**] 04:05AM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**3377-11-16**] 04:05AM   WBC-12.4* RBC-3.70* HGB-11.3* HCT-32.0* 
+MCV-87 MCH-30.7 MCHC-35.5* RDW-13.5
+[**3377-11-16**] 04:05AM   NEUTS-80* BANDS-16* LYMPHS-3* MONOS-1* EOS-0 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**3377-11-16**] 04:05AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL OVALOCYT-OCCASIONAL
+[**3377-11-16**] 04:05AM   PLT COUNT-318
+[**3377-11-16**] 04:05AM   PT-13.9* PTT-32.0 INR(PT)-1.2*
+[**3377-11-16**] 04:05AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 223**]-1.016
+[**3377-11-16**] 04:05AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-MOD
+[**3377-11-16**] 04:05AM URINE  RBC-[**3-9**]* WBC-21-50* BACTERIA-FEW 
+YEAST-NONE EPI-0
+ 
+Brief Hospital Course:
+86 year old male with history of alcohol abuse, and recent MI 
+just discharged from [**Hospital 770**] Hospital on Plavix on [**11-14**] with 
+steroid taper, who presented to [**Hospital 770**] Hospital early this 
+morning with shaking, confusion, and profuse diarrhea, found to 
+have significant bandemia, sepsis requiring norepinephrine, as 
+well as perihilar infiltrates and hypoxic respiratory failure 
+requiring intubation.
+
+1) Sepsis:  Most likely sources were initially thought to be C. 
+Difficile and pneumonia, both nosocomially acquired.  He was 
+treated initially with vancomycin and zosyn (to cover nosocomial 
+pneumonia), and flagyl empirically for C. Difficile.  
+Subsequently, however, a blood culture from [**Hospital 770**] Hospital 
+returned with E. Coli, and his urine culture from [**Hospital1 25**] also 
+grew out E. Coli.  He was therefore ultimately felt to have 
+urosepsis.  Vancomycin and flagyl were discontinued, while zosyn 
+was continued.  He was weaned off of norepinephrine within 24 
+hours.  He had been started on stress dose steroids on admission 
+given that he had been on steroids for at least the last few 
+days prior to admission (prednisone 30), however these were 
+quickly tapered off.
+
+2) Hypoxic respiratory failure:  Most likely secondary to an 
+early acute lung injury, which is compatible with his bilateral 
+perihilar infiltrates.  His ventilator settings were rapidly 
+weaned, and he was extubated 48 hours after arrival without 
+difficulty.  Unfortunately the patient had to be reintubated due 
+to aggitation and was on the ventilation for 5 more days.  He 
+was then weaned off the vent and extubated.  At this point his 
+family made the patient DNR/DNI.  The patient tolerated 
+face-mask oxygen delivery for 3 days and then again developed 
+respiratory distress and passed due to respiratory failure
+
+3) Cardiac enzyme elevation, CAD:  Cardiac enzymes were trended 
+and flat, and EKG was without changes concerning for an acute 
+process.  He was continued on ASA, Plavix, and statin.  
+Cardiology followed the patient but he was not a candidate for 
+catheterization due to his poor prognosis otherwise.
+
+4) Acute renal failure:  Almost certainly pre-renal in the 
+setting of sepsis and hypotension, and improved with rehydration 
+to 1.4, which is likely his baseline.  
+
+5) Alcohol abuse:  Per wife, he hadn't drank in over a week 
+prior to admission.  He did not exhibit any signs of withdrawal.
+
+6) DM:  He had finger sticks QID, with an insulin sliding scale. 
+ Glyburide was held.
+
+7) FEN:  He had a diabetic, cardiac diet.
+
+8) Prophylaxis:  He was given SQ heparin, PPI.
+
+9) Access:  He arrived with a left femoral line that was removed 
+in exchange for an IJ central line.  This, too, was removed once 
+he no longer had a pressor requirement.
+
+10) Contact:  Wife, [**Last Name (un) **] [**Known patient lastname 9274**], [**Telephone/Fax (1) 9275**].
+ 
+Medications on Admission:
+Gabapentin 600 mg TID
+Glyburide 1.25 mg daily
+Finasteride 5 mg daily
+Omeprazole 20 mg daily
+Allopurinol 100 mg daily
+Vitamin B12 injections monthly
+Prednisone taper 30 mg [**11-14**] through [**11-16**], 20 mg through [**11-19**], 
+10 mg through [**11-22**], then 5 mg daily "until f/u with 
+pulmonologist."
+Imdur 10 mg daily
+Metoprolol 75 mg BID
+Plavix 75 mg daily
+Albuterol MDI 1 puff Q 4- 6 hours prn
+Atorvastatin 80 mg daily
+Aspirin 325 mg daily
+Multivitamin daily
+Thiamine 100 mg daily
+Folate 1 mg daily
+
+ 
+Discharge Medications:
+.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+.
+ 
+Discharge Condition:
+.
+ 
+Discharge Instructions:
+.
+ 
+Followup Instructions:
+.
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 571**] MD [**MD Number 572**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 9276**] MD [**MD Number 9277**] [**3377-12-1**] @ 0959
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3377-12-1**] 12:51 PM
+(End of Report)
+
+
+|DISCHARGE_SUMMARY
+rowid|10094|26368|
+ 
+ 
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 246**] 
+Chief Complaint:
+failure to thrive, hypotension  
+
+ 
+Major Surgical or Invasive Procedure:
+Central line placement
+
+ 
+History of Present Illness:
+History obtained from granddaughter and available medical 
+records.  
+98M assisted living resident with DM, multiple recent admissions 
+to [**Hospital1 717**] (apparently s/p falls, UTI) who was just d/ced from [**Hospital1 717**] 
+2d PTA (reportedly after he refused to go to rehab/NH) who was 
+send to [**Hospital1 19**] with "failure to thrive" after being found 
+lethargic, weak, and confused in his apt by visiting 'Elder 
+services' so EMS was called & brought pt to ED ([**Hospital1 717**] on divert).  
+
+.
+Pt reportedly found sleeping on the (carpeted) floor of his apt 
+yesterday but w/o obvious signs of a fall.  
+.
+Pt denies pain but is otherwise unable to give any history. Pt's 
+granddaughter spend much of yesterday w/the pt & states that he 
+did not have any complaints at that time. Pt has apparently had 
+very limited mobility since d/c from [**Hospital1 717**] due to weakness.  
+.
+In ED, pt's SBP was initially stable in 128/52 but after a few 
+hours, BP was noted to be 66/43 so pt started on dopa and 
+L-subclav placed. Pt rec'd ASA 600 PR, ceftriaxone 1g, flagyl 
+500, and hydrocort 100. Pt's BP improved with 3L NS and dopa was 
+weaned to lowest dose upon transfer to MICU.  
+
+ 
+ 
+Past Medical History:
+hypothyroidism
+dementia
+prolactinoma
+diabetes
+s/p multiple falls
+ 
+Social History:
+lives at assisted living. Per pt's granddaughter, the pt's 
+primary caregiver has been the pt's daughter x many years but 
+this daughter recently had an MI and stroke so is at a rehab 
+facility.  
+
+ 
+
+ 
+Family History:
+non- contributory
+ 
+Physical Exam:
+-VS: Temp 96.3, HR 80-100, SBP 120s->60s->110s on low-dose dopa, 
+O2 Sat 95-98% on 2-3L NC. CVP 11-12.  
+-Gen: elderly M lying in stretcher asleep  
+-Skin: L-posterior calf laceration w/sutures; slightly 
+erythematous rash in anterior chest  
+-HEENT: OP dry, EOMI  
+-Neck: JVD not appreciated  
+-Heart: S1S2 RRR  
+-Lungs: occasional coarse airway sounds bilat lower lobes; no 
+crackles appreciated; fair air movement  
+-Abdom: soft, NT, ND, NABS  
+-Rectal: guaiac negative in ED  
+-Extrem: 1+ pulses, 1+ pitting bilat edema, full ROM  
+-Neuro/Psych: arousable but somnolent  
+ 
+Pertinent Results:
+[**2504-3-18**] 01:30PM   CORTISOL-14.7
+[**2504-3-18**] 01:30PM   FREE T4-0.7*
+[**2504-3-18**] 01:30PM   TSH-0.10*
+[**2504-3-18**] 01:30PM   CK-MB-18* MB INDX-1.8
+[**2504-3-18**] 01:30PM   CK-MB-18* MB INDX-1.8
+[**2504-3-18**] 01:30PM   GLUCOSE-94 UREA N-22* CREAT-1.6* SODIUM-148* 
+POTASSIUM-3.9 CHLORIDE-107 TOTAL CO2-27 ANION GAP-18
+[**2504-3-18**] 06:29PM   CORTISOL-16.3
+[**2504-3-18**] 06:29PM   CK-MB-17* MB INDX-1.8 cTropnT-0.95* 
+proBNP-4964*
+[**2504-3-18**] 06:35PM   LACTATE-1.1
+.
+head CT: large sellar mass- no intercranial hemorrhage or 
+infarct
+.
+. The left atrium is moderately dilated. The left atrium is 
+elongated. 
+2.Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is top normal/borderline dilated. 
+Overall left ventricular systolic function is mildly depressed. 
+Resting regional wall motion abnormalities include severe 
+hypokinesis/akinesis of the inferolateral wall.
+3. Right ventricular chamber size is normal. Right ventricular 
+systolic function appears depressed with marked hypokinesis of 
+the RV apex. 
+4.The ascending aorta is moderately dilated.
+5. The aortic valve is midly thickened tricuspid valve. Mild 
+(1+) aortic regurgitation is seen. 
+6.The mitral valve leaflets are mildly thickened. Trivial mitral 
+regurgitation is seen. 
+7.Moderate [2+] tricuspid regurgitation is seen. 
+8.There is no pericardial effusion.  
+.
+CXR: : Left lower lobe consolidation concerning for pneumonia.  
+Atelectasis is a less likely possibility. 
+
+ 
+Brief Hospital Course:
+98M with DM, dementia, and apparently several recent admission 
+to [**Hospital1 717**] for falls, UTI, FTT, now BIBA after being found 
+lethargic, weak, & confused. In ED found to have likely PNA, 
+became transiently hypotensive, stabilized after IVF.  Patient 
+intially admitted to MICU.  Thought to have early sepsis (e.g., 
+from PNA), vs. mucus plug. Doubt that he had large AMI leading 
+to cardiogenic shock given physical exam and flat CKs, although 
+patient did have troponin elevation.  This was thought to be 
+from either a cardiac event or from sepsis in setting of ARF.  
+He was continued on antibiotics (Vanc and Zosyn).  A head CT in 
+the ED was negative for a bleed but notable for large sellar 
+mass (which per daughter is known & old). Old records were 
+reviewed, and it was found that patient has known prolactinoma 
+invading his sella space and rendering him panhypopit.  The 
+patient most recently seen by Dr. [**Last Name (STitle) 718**], also Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 719**]; 
+has also been seen at [**Hospital1 717**] Brain Tumor Center.  Apparently not a 
+surgical candidate, currently on Dostinex for the tumor.  
+Endocrine was consulted, and recommended stress dose steroids 
+with taper.  He was continued on hydrocort IV and then 
+eventually transistioned to oral prednisone, 5mg, daily, which 
+he will remain on indefinitely.  His temperature also decreased 
+overnight on two occasions to 92-93 degrees.  He remained 
+hemodynamically stable with no other suggestions of sepsis or 
+infections.  This temperature decrease was thought to be 
+possibly related to his hypothyroidism or hypopituitarism from 
+the prolactinoma, no clear etiology was found. 
+After four day stay in the ICU, the patient was transferred to a 
+medicine floor.  He was continued on antibiotics for pneumonia, 
+completed a week course of Zosyn; then given oral Levaquin to 
+complete three more days for total ten day course of treatment.  
+His Levaquin was discontinued one day early for concern of 
+prolonged QT interval seen on EKG.  He was weaned off oxygen and 
+his blood pressured stabilized despite discontinuation of 
+midodrine.  It was thought that given his cardiac function (an 
+echo done on [**3-19**] showed depressed LV and RV function, 
+hypokinesis) he could benefit from initiation of either a 
+beta-blocker or ACE, however given his tenuous blood pressure, 
+this was deferred for now.  His creatinine continued to improved 
+to .8 from 1.6 at admission.   He was restarted on Zyprexa 2.5mg 
+BID, which he had been on according to his most recent discharge 
+summary from [**Hospital1 717**].  PT evaluated the patient and recommended 
+further treatment at a rehab facility.  This was discussed with 
+the patient and his family.
+He diabetes was relatively well controlled with 14 units of 
+Lantus daily and a Humalog sliding scale.  This was decreased to 
+5 units of Lantus as his blood sugars were much lower once the 
+high dose steroids were stopped.  It is recommended that if his 
+blood sugars increased, wait at least 48 hours before further 
+increasing his Lantus dose to avoid precipitating hypoglycemia.  
+He was continued on his home dose of Levoxyl.  It is recommended 
+that he follow-up at the [**Hospital 720**] clinic after his stay at rehab.
+On the day prior to discharge, he became acutely hypoxic down to 
+oxygen saturation of 88% on RA.  CXR and physical exam most 
+suggestive of fluid overload and the patient had received IVF 
+the day prior for lyte replacement and hypernatremia.  He 
+responded well to IV lasix, with oxygen saturation improving to 
+96%.  
+He was maintained on sc heparin for DVT prophylaxis and 
+tolerated a diabetic/low sodium diet well with aspiration 
+precautions.  
+
+ 
+Medications on Admission:
+(from old discharge summary)
+levoxyl
+lantus
+flomax
+lasix
+zyprexa
+dostinex
+ 
+Discharge Medications:
+1. Cabergoline 0.5 mg Tablet Sig: Two (2) Tablet PO QMTWThF ().  
+
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+3. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+5. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+6. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day).  
+9. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed.  
+12. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed.  
+13. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID 
+(3 times a day) as needed.  
+15. Lantus 100 unit/mL Solution Sig: Five (5) units Subcutaneous 
+at bedtime.  
+16. Central Line care per protocol
+Please DC central line within five days
+17. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+18. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Bostonian - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Primary: Pneumonia
+Secondary: hypothyroidism
+diabetes
+prolactinoma
+congestive heart failure
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please continue to take all of your instructions as directed.  
+If your blood sugars are persistently high (i.e, >200) for over 
+48 hours, would recommend increasing your lantus dose.  
+.
+Please follow up with your primary care physician after your 
+stay at rehab.
+.
+
+ 
+Followup Instructions:
+It is recommended that [**Doctor First Name **] follow up with your primary care 
+physician within one week of discharge from rehab.
+.
+[**Doctor First Name 54**] may follow-up at the [**Hospital 720**] Clinic for your diabetes care.  
+Please call [**Telephone/Fax (1) 721**] for an appointment.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 263**] MD [**MD Number 264**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 722**] [**Last Name (NamePattern4) 723**] MD [**MD Number 724**] [**2504-3-31**] @ 1036
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**2504-4-2**] 2:57 PM
+(End of Report)
+
