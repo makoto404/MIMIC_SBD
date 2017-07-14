@@ -19,7 +19,7 @@ python sbd.py <input file>
 ## Output
 
 Output data is located in the folder `data/output<executed time>/<topic>`.
-Our program returns one output file per unique patient `(SUBJECT_ID)` and his/her hospitalization admission `(HADM_ID)`. 
+The program returns one output file per unique patient `(SUBJECT_ID)` and his/her hospitalization admission `(HADM_ID)`. 
 The output consists of 8 columns which is separated by pipe character ('|').
 
 ```
@@ -33,7 +33,7 @@ tag_name	: A topic name which is extracted.
 sentence_text   : An extracted sentence.
 ```
 
-An example of output.
+An example of output data.
 
 ```
 rowid|10094|26368|1|35|24|Brief Hospital Course:|Patient intially admitted to MICU.
@@ -54,11 +54,12 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Citation
 
-This source code is used for data preparation in our KDD2017 conference paper under Bigdas@KDD 2017 workshop and Journal paper entitled "Distant Supervision with Transductive Learning for Adverse Drug Reaction Identification from Electronic Medical Records". If you use our source code, please cite our paper as below.
+This source code is used for data preparation in our KDD2017 conference paper under Bigdas@KDD 2017 workshop 
+and Journal paper entitled "Distant Supervision with Transductive Learning for Adverse Drug Reaction Identification from Electronic Medical Records". 
+If you use our source code, please cite our paper as below.
 
 ```
-(tentative) Taewijit, S., Theeramunking, T. and Ikeda, M., 
-Distant Supervision with Transductive Learning for Adverse Drug Reaction Identification 
-from Electronic Medical Records, Journal of Healthcare Engineering, 2017
+(tentative) Taewijit, S., Theeramunking, T. and Ikeda, M., Distant Supervision with Transductive Learning for 
+Adverse Drug Reaction Identification from Electronic Medical Records, Journal of Healthcare Engineering, 2017
 ```
 
